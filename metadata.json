@@ -1,0 +1,6 @@
+{
+  "name": "Zero-Trust Human Rights & Anti-Theft Governance Console",
+  "description": "Sovereign Human Rights compliance and Zero-Unauthorized-Access policy enforcement console for Project Owner Ervin Remus Radosavlevici, strictly governing AI access, provenance, and international legal ethics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
